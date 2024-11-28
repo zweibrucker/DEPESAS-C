@@ -5,4 +5,8 @@ O sistema ele utiliza uma árvore binária para armazenar as despesas, onde cada
 várias opções que permitem ao usuário interagir com as despesas armazenadas no sistema.
 
 
-__FUNCIONALIDADES:__
+# __FUNCIONALIDADES:__ <h1>
+
+O sistema oferece um menu de opções com as seguintes funcionalidades principais:
+
+![image](https://github.com/user-attachments/assets/35920f3b-3b36-471f-8d7e-3306f15e92de)
