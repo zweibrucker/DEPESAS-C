@@ -7,6 +7,7 @@ várias opções que permitem ao usuário interagir com as despesas armazenadas 
 
 # __FUNCIONALIDADES:__ <h1>
 
+* __Menu__
 O sistema oferece um menu de opções com as seguintes funcionalidades principais:
 
 ![image](https://github.com/user-attachments/assets/35920f3b-3b36-471f-8d7e-3306f15e92de)
